@@ -1,6 +1,6 @@
 # AmazingNumbers
  
-This is a project that i made from JetBrains Academy, the program should process the user requests. In this stage, the program should:
+This is a project that i made from JetBrains Academy, the program should process the user requests and indicate the properties of the numbers taken from the input. In this stage, the program should:
 
 1) Welcome users;
 2) Display the instructions;
